@@ -1,8 +1,8 @@
 # Square Alphabet
 
-Hand-drawn monospace display font: thick square frames with unique internal marks, digitized from marker-on-grid photos (A–Z). Lowercase uses the same designs. Original glyphs — no difference enhancements.
+Hand-drawn monospace display font: thick square frames with unique internal marks, digitized from marker-on-grid photos (A–Z). Lowercase uses the same designs. **v1.001** — approved stroke cleanup (hairlines trimmed); no difference-enhancement redesign.
 
-Рукописный моноширинный декоративный шрифт: квадратные рамки с уникальными внутренними знаками, оцифрованные с фотографий маркером на сетке (A–Z). Строчные — те же начертания. Оригинальные глифы без усиления различий.
+Рукописный моноширинный декоративный шрифт: квадратные рамки с уникальными внутренними знаками, оцифрованные с фотографий маркером на сетке (A–Z). Строчные — те же начертания. **v1.001** — утверждённая очистка штриха; без усиления различий букв.
 
 ## Files / Файлы
 
@@ -12,7 +12,8 @@ Hand-drawn monospace display font: thick square frames with unique internal mark
 | `SquareAlphabet.otf` | CFF OpenType — same glyphs |
 | `docs/kak-ispolzovat-i-prodavat.md` | Beginner guide (RU): install + sell |
 | `docs/font-readme.md` | Technical summary |
-| `previews/` | Alphabet preview images |
+| `docs/stroke-cleanup-mockup.md` | Stroke cleanup note (approved → font) |
+| `previews/` | Alphabet + cleanup preview images |
 | `source-glyphs/` | Original A–Z photos |
 
 ## Install / Установка
